@@ -13,7 +13,7 @@ This Node.js script provides a custom implementation of dotenv functionality, al
 
 ### 1. Create a Data File
 
-Create a file (e.g., `.data`) with key-value pairs, each on a new line:
+Create a file (e.g., `.env`) with key-value pairs, each on a new line:
 
 ```plaintext
 DB_HOST=localhost
