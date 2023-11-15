@@ -7,6 +7,7 @@ function parse()
     const dataFileContent = fs.readFileSync('.env', 'utf8');
     const lines = dataFileContent.split('\n');
 
+    // use map also
     lines.forEach((line) => {
     
         const [key, value] = line.split('=');
