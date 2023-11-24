@@ -6,7 +6,7 @@ This Node.js script provides a custom implementation of dotenv functionality, al
 
 ## Features  
  
-- **Custom Implementation:** A simple and lightweight script for loading environment variables from a data file.
+- **Custom Implementation:** A simple and lightweight script for loading environment variables from a data file. 
 - **User-friendly:** Follows a key-value pair format in a plain text file for easy configuration.
 
 ## Usage
